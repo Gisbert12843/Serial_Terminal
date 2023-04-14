@@ -1,0 +1,11 @@
+#pragma once
+#include <iostream>
+#include <vector>
+#include <boost/asio.hpp>
+#include <boost/bind.hpp>
+#include <functional>
+#include <boost/function.hpp>
+#include <Windows.h>
+#include <algorithm>
+#include <boost/system.hpp>
+#include <string>
